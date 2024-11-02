@@ -1,5 +1,3 @@
-Aquí tienes un ejemplo detallado de un archivo `README.md` para este script de respaldo de grabaciones de Zoom en Python, adaptado para el estilo de documentación que se encuentra en proyectos de GitHub.
-
 # Zoom Recordings Backup Script
 
 Este script en Python permite automatizar la descarga y respaldo de grabaciones de reuniones de Zoom en un servidor local, organizando las grabaciones en carpetas estructuradas por mes y día. Utiliza la API de Zoom y maneja la autenticación mediante OAuth Server-to-Server. Los archivos de grabación se almacenan en una carpeta específica en el sistema local, con nombres de archivo sanitizados para evitar problemas de caracteres no permitidos.
@@ -133,7 +131,6 @@ Si deseas contribuir a este proyecto, crea una rama con tus cambios y envía un 
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Puedes ver el archivo de licencia [aquí](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT.
 ```
 
-Este `README.md` detalla la configuración, uso y características del script, brindando un manual completo para futuros desarrolladores o usuarios interesados en utilizar o adaptar el proyecto.
